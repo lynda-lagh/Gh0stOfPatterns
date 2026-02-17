@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=👋%20Hi,%20I'm%20Lynda%20Laghmardi%20&textBg=false&section=header)](https://github.com/lyndalaghmardi)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=500&lines=Data+Scientist+from+Tunisia;ML+%26+Deep+Learning+Enthusiast;Turning+Data+into+Actionable+Insights;Open+to+Collaborate+%26+Innovate)](https://git.io/typing-svg)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lynda%20Laghmardi&textBg=false&section=header)](https://github.com/lynda-lagh)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=500&lines=Data+Scientist+from+Tunisia;Computer+Vision+%26+Deep+Learning;LLMs+%26+NLP+Builder;Fraud+Detection+%26+Drift+Monitoring;Discipline+drives+the+work%2C+love+follows)](https://git.io/typing-svg)
 </div>
 
 ---
