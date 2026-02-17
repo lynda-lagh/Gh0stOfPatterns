@@ -10,13 +10,12 @@
 
 ### 🌌 About Me
 
-I'm a **passionate Data Scientist from Tunisia**, dedicated to turning raw data into meaningful, actionable insights and building innovative AI-powered solutions. I bridge the gap between rigorous analytical thinking and real-world impact.
+A fusion of **my passions**: old movies, photography, and images~driven to explore computer vision, AI, and crazy ideas that blur imagination and reality.
 
-- 🔭 **Currently**: Working on data-driven and machine learning projects.
-- 🌱 **Learning**: Advanced deep learning, MLOps, and scalable data pipelines.
-- 💡 **Interests**: Computer Vision, NLP, Big Data, and Predictive Analytics.
-- 🤝 **Open to**: Collaborations, research, and freelance data science projects.
-- 📍 **Based in**: Tunisia 🇹🇳
+- 🔭 **Currently**: Working on my thesis
+- 🌱 **Learning**: Anything that sparks my curiosity
+- 💡 **Interests**: Computer Vision, NLP, Deep Learning, LLMs, Predictive Analytics, Big Data
+- 🤝 **Open to**: Collaborations, research, and innovative AI projects
 
 ---
 
@@ -32,9 +31,13 @@ I'm a **passionate Data Scientist from Tunisia**, dedicated to turning raw data 
 
 ### 🧪 Featured Projects
 
-- **📊 Predictive Analytics Platform** – Built end-to-end ML pipelines for real-world tabular datasets, combining feature engineering with ensemble models for high-accuracy predictions.
-- **🖼️ Computer Vision Model** – Developed image classification and object detection pipelines using PyTorch and OpenCV.
-- **⚡ Real-Time Data Pipeline** – Designed a streaming data architecture with Apache Kafka and Elasticsearch for live analytics dashboards.
+- 🚗 **Car Drift Prediction** – Predicting car drift behavior using image analysis, mathematical rules, and angles.  
+- 🤖 **Student Chatbot** – An AI chatbot to help students navigate university life and get answers about courses, schedules, and details.  
+- 🖼️ **Screenshot Organizer** – Automatically organizes screenshots to clean and manage galleries efficiently.  
+- 🎤 **Voice Recognition & Comparison** – A project to recognize and compare voices for authentication or analysis purposes.  
+- ✋ **Magic Hand** – Control your computer using hand movements as a virtual mouse to navigate the system in the air.  
+- 💸 **Fraud Detection (University Project)** – Analyzing transactions to predict fraud and money transmission anomalies.  
+- 🕸️ **Data Scraping Scripts** – Custom scripts to collect, clean, and structure data from websites for analysis.
 
 ---
 
@@ -55,7 +58,6 @@ I'm a **passionate Data Scientist from Tunisia**, dedicated to turning raw data 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lyndalaghmardi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lyndalaghmardi@gmail.com)
-[![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=flat-square&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/1134)
 
 </div>
 
